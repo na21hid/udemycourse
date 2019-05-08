@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by amir on 5/3/19.
  */
 public class Email {
-   private String firstName; 
+   private String firstName;
    private String lastName;
    private String password;
    private String email;
